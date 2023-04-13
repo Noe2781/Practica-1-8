@@ -7,6 +7,7 @@ console.log("!$:;14;" != "123qwerty");
 console.log("Joel" == "Joel" && "!$:;14;" == "!$:;14;");
 console.log("Joel" == "joel" || "!$:;14;" == "!$:;14;"  );
 console.log("joel" != "Joel" && "!$:;14;" != "123qwerty" );
+let edad = 25 ;
 console.log(edad >=18 && edad < 100);
 console.log(edad >= 18 || edad < 100);
 console.log(edad <= 18 || edad < 100);
